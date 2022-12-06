@@ -1,2 +1,1 @@
-# tindogPractice
-Practice of html, CSS , bootstrap
+TinDog Starting Files
